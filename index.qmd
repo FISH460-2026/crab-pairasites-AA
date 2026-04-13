@@ -14,8 +14,8 @@ author:
       - University of Washington 
   - name: Clara Svenson
     orcid: 0000-0002-7859-8394
-    corresponding: true 
-email: claras7@uw.edu
+    corresponding: true
+    email: claras7@uw.edu
     roles: []
     affiliations:
       - University of Washington
