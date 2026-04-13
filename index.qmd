@@ -1,5 +1,5 @@
 ---
-title: La Palma Earthquakes
+title: Parasitic Effects on Hemigrapsus oregonensis
 author:
   - name: Alexandria Terayama
     orcid: 0000-0002-0760-5497
