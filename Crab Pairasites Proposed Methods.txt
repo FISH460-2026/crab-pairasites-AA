@@ -6,11 +6,13 @@ Methods:
 
 3. Take mass (g) of each crab using metric scale and plastic weigh boat
 
-4. Take righting time of each crab by flipping it upside down and measuring reaction with stopwatch (s)
+4. Take righting time of each crab by flipping it upside down and measuring reaction with phone stopwatch (s)
 
-5. Place green crab in tray, sectioned off by plastic mesh. Place 1 cm² grid underneath to allow distance measurement (cm/s)
+5. Place green crab in tray, sectioned off by plastic mesh. Place 1.5 cm² grid underneath to allow distance measurement (units/s)
 
-6. Test each experimental crab's reactivity to predator presence via distance over time metric
+6. Test each experimental crab's reactivity to predator presence via distance over 5 seconds
+  6.1 European green crab should be placed and held down from the top, green shore crab placed at (6, 3) of a 11 x 15 grid
+  6.2 Test should be run in wet and dry conditions, with wet conditions having enough water to submerge green shore crabs
 
 7. Place crabs in tanks, separated by parasitized status
 
